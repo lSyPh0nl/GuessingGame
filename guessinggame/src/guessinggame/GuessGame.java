@@ -1,5 +1,14 @@
 package guessinggame;
 
+
+/*
+ * Date: 13/09/2020
+ * Student Number: 11001826
+ * Student Name: Connor Macleod 
+ * Version:  1
+ */
+
+
 public class GuessGame{
 	Player p1;
 	Player p2;
